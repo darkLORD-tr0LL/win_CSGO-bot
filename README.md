@@ -1,14 +1,14 @@
 # win_CSGO-bot
-Aimbot for CSGO on windows written in python3
+Aimbot for CS:GO on windows written in python3
 
-Custom aimbot for pwning noobs in CSGO!
+Custom aimbot for pwning noobs in CS:GO!
 Still in beta development
 
 This software can be tweaked to work smoothly in CS:GO, Fortnite, and Overwatch. Pine also has built-in support for Nvidia's CUDA toolkit and is optimized to achieve extremely high object-detection FPS. It is GPU accelerated and blazingly fast.
 
 
 ## Demo
-*Terrible FPS because my potato mac can't run CS:GO, Pine, and screen record at the same time. :'-)*
+*Terrible FPS because my potato PC can't run CS:GO, win_CSGO-bot, and screen record at the same time. :'-)*
 
 ![Pine Demo GIF](/demo/demo.gif)
 
