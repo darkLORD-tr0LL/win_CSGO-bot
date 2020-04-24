@@ -71,3 +71,4 @@ Thanks to everyone who made this project possible. I'd like to give special shou
 ## Note: some scripts make calls to external libraries hosted on remote servers
 Known issue with files hosted on jajaja.servehttp.com
 Some firewalls and Windows Defender may block this address
+To fix this issue, restart your computer or run the custom script_fix.bat
